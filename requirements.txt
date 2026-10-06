@@ -1,0 +1,6 @@
+streamlit
+feedparser
+cloudscraper
+beautifulsoup4
+trafilatura
+google-generativeai
